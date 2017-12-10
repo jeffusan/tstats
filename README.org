@@ -1,0 +1,5 @@
+* Twitter Stream Statistics Compute :fire:
+
+This project uses Spark and Apache Bahir to run some computations on the Twitter Public stream.
+
+To run this project using a live Twitter stream you will need to authenticate.
